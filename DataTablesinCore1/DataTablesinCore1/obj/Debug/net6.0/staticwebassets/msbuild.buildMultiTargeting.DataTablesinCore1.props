@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DataTablesinCore1.props" />
+</Project>
